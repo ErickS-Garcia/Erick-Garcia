@@ -1,0 +1,2 @@
+# Erick-Garcia
+Comp Distribuida
